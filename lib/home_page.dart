@@ -14,7 +14,7 @@ class Homepage extends StatelessWidget {
           child: const Text("Welcome to flutter learn"),
         ),
       ),
-      drawer: Drawer(),
+      drawer: const Drawer(),
     );
   }
 }
